@@ -1,0 +1,26 @@
+**************adding new pet**********
+**************adding new pet**********
+**************adding new pet**********
+**************adding new pet**********
+**************adding new pet**********
+**************adding new pet**********
+**************adding new Item**********
+**************adding new Item**********
+**************adding new Item**********
+**************adding new Item**********
+**************adding new Item**********
+**************Hiring new Employee**********
+**************Hiring new Employee**********
+**************Hiring new Employee**********
+**************Hiring new Employee**********
+**************Terminate Employee**********
+**************Purchasing new Pet**********
+**************Sell Pet**********
+**************Compute Payroll**********
+**************Compute Supply Value**********
+-------------------------------------------------------
+The Supply Value: 0.0
+-------------------------------------------------------
+**************Compute Pet Stock Value**********
+**************List Employee**********
+**************List Pets**********
